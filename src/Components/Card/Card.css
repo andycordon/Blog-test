@@ -18,3 +18,8 @@
 .card p {
     font-size: 18px;
 }
+
+.card a {
+    text-decoration: none;
+    color: rgb(113, 65, 185);
+}

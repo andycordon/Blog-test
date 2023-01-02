@@ -23,10 +23,11 @@ nav {
     cursor: pointer;
 }
 
-a {
+a{
     text-decoration: none;
     color: #fff;
 }
+
 
 .btn {
     display: none;
